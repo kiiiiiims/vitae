@@ -18,18 +18,17 @@ title: kiiiiiims's Resume
 name: kiiiiiims
 email: masterk9739@gmail.com
 email_full: masterk9739@gmail.com
-website: github.io/sustain
+website: github.io/sustaingit 
 website_full: https://jekyllt.github.io/sustain
 github: trending
 twitter: twitter
-tel: +44 0000 000000
+tel: +8201 6490 9739
 tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+google_maps: 'https://www.google.com/maps/place/%EA%B2%BD%EA%B8%B0%EB%8F%84+%EC%95%88%EC%82%B0%EC%8B%9C/data=!3m1!4b1!4m6!3m5!1s0x357b0b07731d9ba7:0x702128da3e631ae9!8m2!3d37.3218778!4d126.8308848!16zL20vMDN2Nmg3?entry=ttu'
+
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  city: ansan
+  country: South Korea
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
